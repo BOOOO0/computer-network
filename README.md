@@ -8,3 +8,6 @@
     - [물리 매체](/internet-structure/network-edge/physical-media/README.md)
     - [네트워크들의 네트워크](/internet-structure/network-of-networks/README.md)
   - [네트워크 코어](/internet-structure/network-core/README.md)
+  - [Performance](/internet-structure/performance/)
+    - [패킷 손실](/internet-structure/performance/packet-loss/README.md)
+    - [대역폭](/internet-structure/performance/throughput/README.md)
