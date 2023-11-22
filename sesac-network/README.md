@@ -64,6 +64,10 @@
 |Local Identification|Global Identification|
 |라우터의 내부 망에서는 MAC 주소 테이블을 통해 내부 망에서만의 통신을 하기 때문에 Local ID로 볼 수 있다.|IP는 라우터 밖 외부 망의 장치들과 공인 IP를 통해 통신하므로 Global ID로 볼 수 있다.|
 
+### 라우터 내부 망
+
+- ![image](../img/switch.PNG)
+
 ## 네트워크 계층
 
 - 네트워크 간 최적의 경로를 결정한다.(라우팅)
@@ -130,4 +134,13 @@
 
 </details>
 
+
+<details>
+<summary>11/13 네트워크</summary>
+
+<div markdown="1">
+
+</div>
+
+</details>
 
